@@ -1,2 +1,2 @@
-# SMPTEmailer
-Little mailer script used to send emails via SMPT
+# SMPT Emailer
+Emailer script used to send emails via SMPT
